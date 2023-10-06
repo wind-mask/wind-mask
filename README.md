@@ -1,4 +1,13 @@
 ### Hi there 👋
+So lazy，that:
+
+![star](https://github-readme-stats.vercel.app/api?username=wind-mask&count_private=true&show_icons=true&theme=blue-green)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wind-mask&theme=blue-green&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+📧 How to reach me: [My Email](mailto:wind_mask_proton@proton.me)
+
+PGP: [My public key](https://github.com/wind-mask.gpg)
 
 <!--
 **wind-mask/wind-mask** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
