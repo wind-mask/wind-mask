@@ -1,6 +1,8 @@
 ### Hi there 👋
 So lazy，that:
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wind-mask&theme=radical)
+
 ![star](https://github-readme-stats.vercel.app/api?username=wind-mask&count_private=true&show_icons=true&theme=blue-green)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wind-mask&theme=blue-green&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
