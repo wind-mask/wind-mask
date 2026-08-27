@@ -3,7 +3,7 @@ So lazy，that:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wind-mask&theme=radical)
 
-![star](https://github-readme-stats-wind-masks-projects.vercel.app/api?username=wind-mask&count_private=true&show_icons=true&theme=blue-green)
+![star](https://github-stats-extended-frontend-seven-red.vercel.app/api?username=wind-mask&count_private=true&show_icons=true&theme=blue-green)
 
 ![Top Langs](https://github-readme-stats-wind-masks-projects.vercel.app/api/top-langs/?username=wind-mask&theme=blue-green&hide=XSLT,CSS,SHELL,HTML,LUA&size_weight=0.5&count_weight=0.5)
 
